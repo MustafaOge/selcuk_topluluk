@@ -1,16 +1,6 @@
-# selcuk_topluluk
+# SelcukTopluluk
+Projenin Front-End kısmı Flutter ile kodlanmış olup Back-End için MongoDb ve NodeJs kullanılmıştır projeye ara verildi.
+<img width="3635" alt="Frame 10" src="https://user-images.githubusercontent.com/71128602/211866645-64377f0f-d669-4cd8-85dd-a58783666e74.png">
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Projenin UI tarafında geliştirmeler yapıldı
+<img width="2634" alt="Frame 27" src="https://user-images.githubusercontent.com/71128602/221423939-60b14d00-32d3-47ec-989b-73d3178cd574.png">
